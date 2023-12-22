@@ -1,0 +1,23 @@
+.container{
+    width: 50%;
+    text-align: left;
+    border: 1px black solid;
+    margin-left: 20%;
+    background-color: antiquewhite;
+    padding-top: 0;
+
+}
+.azul{
+    color: aqua;
+    font-style: italic;
+}
+h1{
+    background-color: rgb(240, 135, 98);
+}
+h2{
+    color: rgb(54, 164, 254);
+    font-style: italic;
+}
+h3{
+    color: rgb(54, 164, 254) ;
+}

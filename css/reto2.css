@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-size: 2em;
+}
+.container{
+    border: 2px black solid;    
+    width: 50%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    margin-left: 25%;
+}
